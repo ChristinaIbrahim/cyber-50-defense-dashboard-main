@@ -27,4 +27,4 @@ A production-grade, highly interactive Cyber Security Dashboard built with **Ang
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/ChristinaIbrahim/cyber-security-analytics-dashboard.git](https://github.com/ChristinaIbrahim/cyber-security-analytics-dashboard.git)
+   git clone [https://github.com/ChristinaIbrahim/cyber-security-analytics-dashboard.git]
